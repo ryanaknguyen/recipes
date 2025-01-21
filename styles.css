@@ -1,0 +1,30 @@
+* {
+  font-family: "Helvetica", sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.image {
+  text-align: center;
+}
+
+#orange-chicken-img {
+  width: 500px;
+  height: auto;
+}
+
+#honey-walnut-shrimp-img {
+  width: 500px;
+  height: auto;
+}
+
+#bibimbap-img {
+  width: 500px;
+  height: auto;
+}
+
+.home {
+  text-align: center;
+}
